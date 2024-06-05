@@ -15,3 +15,4 @@
 5. npm run start
 6. Change Navbar Section names from NavbarItems.js fitting your needs.
 7. Change Name and Logo and you're done.
+> 
